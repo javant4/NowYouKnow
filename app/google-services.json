@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "498437252807",
+    "firebase_url": "https://now-you-know-88d70.firebaseio.com",
+    "project_id": "now-you-know-88d70",
+    "storage_bucket": "now-you-know-88d70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498437252807:android:0fd529f9c680c778",
+        "android_client_info": {
+          "package_name": "com.example.johnathanavant.nowyouknow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498437252807-2gt05bg4lfrm9dfs06314ifr1db8tho7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.johnathanavant.nowyouknow",
+            "certificate_hash": "62a62650a9fe89e7c25b64736a47fe430ac0e9a2"
+          }
+        },
+        {
+          "client_id": "498437252807-dnunfhtdqog805ukbf72vsid1nhmj79t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDMZYfxmDKydV5gAHbAy0naBZt5ik8K6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498437252807-dnunfhtdqog805ukbf72vsid1nhmj79t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

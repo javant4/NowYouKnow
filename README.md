@@ -1,6 +1,6 @@
 # Now You Know
 
-## That is the app?
+## What is the app?
  * The invention is a mobile app functions to allow students that have a specialized trade or skill in photography/videography, doing/cutting hair, styling/clothes
 alterations, fixing computers/phones, car
 maintenance, etc. to connect with UC
